@@ -1,6 +1,6 @@
 # 🎂 Happy 23rd Birthday, Habtishye! 🎉
 
-This is a simple and colorful birthday celebration web page made to celebrate the 23rd birthday of **Habtishye** in a joyful and memorable way! 🎈
+This is a simple and colorful birthday celebration web page made to celebrate the 23rd birthday of **Habtish** (myfirnd) in a joyful and memorable way! 🎈
 
 ## 💖 Features
 
